@@ -611,8 +611,8 @@ head: scheduleHead.md
 
 # Full Schedule of Module Activities
 
-<panel src="overview/index.md" header=":exclamation: **Info relevant to all weeks**"  />
-<panel src="../admin/tutorials.md#tutorialTimetable" header="**{{glyphicon_calendar}} Tutorial Timetable**" />
+<panel src="overview/index.md" header="{{ icon_important }} **Info relevant to all weeks**"  minimized />
+<panel src="../admin/tutorials.md#tutorialTimetable" header="**{{glyphicon_calendar}} Tutorial Timetable**" minimized />
 
 <p/>
 
